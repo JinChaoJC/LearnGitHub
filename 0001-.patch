@@ -1,0 +1,24 @@
+From 688bd13430401c494d622b57db4e4f145d8d7e3e Mon Sep 17 00:00:00 2001
+From: JinChao <jinchaojc90@163.com>
+Date: Mon, 8 Jul 2019 17:40:44 +0800
+Subject: [PATCH] =?UTF-8?q?=E6=B7=BB=E5=8A=A0=E5=AD=90=E6=A8=A1=E5=9D=97?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ "\345\255\220\346\250\241\345\235\227/Money.txt" | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 "\345\255\220\346\250\241\345\235\227/Money.txt"
+
+diff --git "a/\345\255\220\346\250\241\345\235\227/Money.txt" "b/\345\255\220\346\250\241\345\235\227/Money.txt"
+new file mode 100644
+index 0000000..e37d32a
+--- /dev/null
++++ "b/\345\255\220\346\250\241\345\235\227/Money.txt"
+@@ -0,0 +1 @@
++1000
+\ No newline at end of file
+-- 
+2.21.0.windows.1
+
